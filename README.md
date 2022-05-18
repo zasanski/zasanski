@@ -1,11 +1,9 @@
-----------------------------------------------------------------------------------------
-- Hi, I’m Bartek and here you can find some of my personal and university projects   
-- I’m interested in programming and Linux (trying new distros)                       
-- I’m currently studying Electronics Enginnering in Wroclaw University of technology 
-- If you want to contact me, you can find me on Discord Bartek #9466                 
-----------------------------------------------------------------------------------------
+<h1 align="center">Hi, I'm Adam Pithenwala 👋</h1>
+<h2 align="center">Student at Wrocław University of Science and Technology</h2>
 
-<!---
-zasanski/zasanski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About me
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- 📫 How to reach me **b.zsanski@gmail.com**
+
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
