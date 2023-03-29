@@ -9,4 +9,4 @@
 
 - ⚡ I'm also audiophile, anime fan and gym rat
 
-- 📫 Reach me **b.zsanski@gmail.com**
+- 📫 Reach me at **b.zsanski@gmail.com**
